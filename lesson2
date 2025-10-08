@@ -1,0 +1,10 @@
+lesson 2
+
+Here let us talk about maths
+
+in JS
+we use Math.round() fn to round the number it is necessary to convert dollor into cent to round off the number so there wont be any problem while using
+float or decimal
+
+Math.floor will always round the numbber to less and Math.ceil will round it up
+
