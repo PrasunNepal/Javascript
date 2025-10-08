@@ -1,0 +1,18 @@
+String here we will dicuss about the string 
+we use string and numbers to create text in the websites
+'$' +Math.round(799 +2099)/100
+'$28.98'
+
+'Items ('+(1+1)+'):   $'+ +Math.round(799 +2099)/100
+'Items (2):   $28.98'
+
+alert('Items ('+(1+1)+'):   $'+ +Math.round(799 +2099)/100)
+
+In below example we should use doulble cot for string 
+"I'm learnig JS"
+
+`Items(${1+1}):$${(2095+799)/100}`
+
+
+`some
+text`
